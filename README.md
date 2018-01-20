@@ -8,7 +8,7 @@ If invalid value is exist, display error message.
 
 ### 1.0.0
 
-- Initial release.
+- Initial release
 
 ## License
 MIT
