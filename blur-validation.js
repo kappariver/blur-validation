@@ -1,5 +1,11 @@
-/*
- *  Model
+/**
+ * @license blur-validation v1.0.1
+ * (c) 2018 kappariver
+ * License: MIT
+ */
+
+ /*
+ * Model
  */
 
 function Model(element) {
@@ -78,7 +84,7 @@ Model.prototype.trigger = function(event) {
 };
 
 /*
- *  View
+ * View
  */
 
 function View(element) {
